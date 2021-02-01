@@ -22,6 +22,26 @@ function Cards() {
               path="/services"
             />
           </ul>
+          <ul className="cards__items">
+            <CardItem
+              src="images/img-3.jpg"
+              text="Set Sail in the Atlantic Ocean Visiting Uncharted Waters"
+              label="Mystery"
+              path="/services"
+            />
+            <CardItem
+              src="images/img-4.jpg"
+              text="Experience football on Top of the Himilayan Mountains"
+              label="Adventure"
+              path="/services"
+            />
+            <CardItem
+              src="images/img-8.jpg"
+              text="Ride throught Sahara Desert on a guided camel tour"
+              label="Adrenaline"
+              path="/services"
+            />
+          </ul>
         </div>
       </div>
     </div>
